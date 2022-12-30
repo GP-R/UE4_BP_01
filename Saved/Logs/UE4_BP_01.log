@@ -3377,3 +3377,692 @@ Script call stack:
 [2022.12.30-07.15.00:813][783]LogContentValidation: Display: World /Game/Maps/DevMap.DevMap 유효성 검사 중
 [2022.12.30-07.15.47:859][417]LogSlate: Window '콘텐츠 브라우저' being destroyed
 [2022.12.30-07.15.47:880][417]LogSlate: Window '콘텐츠 브라우저' being destroyed
+[2022.12.30-07.21.12:385][555]LogUObjectHash: Compacting FUObjectHashTables data took   6.39ms
+[2022.12.30-07.21.17:063][555]LogSlate: Window '콘텐츠 저장' being destroyed
+[2022.12.30-07.21.17:278][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/BG" FILE="../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/BG.uasset" SILENT=true
+[2022.12.30-07.21.17:392][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/BG97172F834E955B5B449B3C8B96A522E8.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/BG.uasset'
+[2022.12.30-07.21.17:415][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/BG_Sprite" FILE="../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/BG_Sprite.uasset" SILENT=true
+[2022.12.30-07.21.17:432][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/BG_Sprite79D0BB914E58B0237F42F8BBF4A73EE2.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/BG_Sprite.uasset'
+[2022.12.30-07.21.17:440][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_attack_011FE4314948E6D57DFF9BA8981A62942D.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-attack/down_attack_01.uasset'
+[2022.12.30-07.21.17:466][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_attack_01_Sprite9C1C64E04855B7437B589C9DC32147F3.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-attack/down_attack_01_Sprite.uasset'
+[2022.12.30-07.21.17:480][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_attack_02CC3D72BB475F14E630451C819D197385.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-attack/down_attack_02.uasset'
+[2022.12.30-07.21.17:509][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_attack_02_Sprite25921DAB4F6B65736EC81DBE9F4679F9.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-attack/down_attack_02_Sprite.uasset'
+[2022.12.30-07.21.17:518][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_attack_0339E5D5074320A42A3E2DB59146719AAA.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-attack/down_attack_03.uasset'
+[2022.12.30-07.21.17:544][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_attack_03_SpriteFEF1821C4C23B925327749B9443A0A02.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-attack/down_attack_03_Sprite.uasset'
+[2022.12.30-07.21.17:553][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_attack_04FB2B7A3C4535C59D405F0CA705C5BC8B.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-attack/down_attack_04.uasset'
+[2022.12.30-07.21.17:586][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_attack_04_SpriteAA0796D34BB6C508986E04AD794BEADD.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-attack/down_attack_04_Sprite.uasset'
+[2022.12.30-07.21.17:596][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_attack_056C0C9892479E1FB03091149D41951D58.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-attack/down_attack_05.uasset'
+[2022.12.30-07.21.17:631][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_attack_05_Sprite0198E836491C6340D7BC6281E672947C.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-attack/down_attack_05_Sprite.uasset'
+[2022.12.30-07.21.17:642][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_attack_06BAF24B814AF1DD7D5D983694C0B39C3E.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-attack/down_attack_06.uasset'
+[2022.12.30-07.21.17:692][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_attack_06_SpriteF6195C854E417762FDF7F189092A7E37.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-attack/down_attack_06_Sprite.uasset'
+[2022.12.30-07.21.17:703][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_attack_077005B63243E09FC5E55D57A35442E73F.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-attack/down_attack_07.uasset'
+[2022.12.30-07.21.17:733][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_attack_07_SpriteC98A013F44C2AC7083794E8A3120E17C.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-attack/down_attack_07_Sprite.uasset'
+[2022.12.30-07.21.17:741][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_attack_081D550B0D473F96D2C9B6F0BFFAF50CF3.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-attack/down_attack_08.uasset'
+[2022.12.30-07.21.17:768][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_attack_08_SpriteEEC490D74E6E97E7A0C999BF3EF906BE.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-attack/down_attack_08_Sprite.uasset'
+[2022.12.30-07.21.17:777][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_idle_018EF33D344868CFCA5640DCB5CE7CABA3.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-idle/down_idle_01.uasset'
+[2022.12.30-07.21.17:801][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_idle_01_Sprite45F4062B4284658C2FB9C3AB1D6793F5.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-idle/down_idle_01_Sprite.uasset'
+[2022.12.30-07.21.17:809][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_idle_02D62072EC441C9A952AF196ACD704CA03.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-idle/down_idle_02.uasset'
+[2022.12.30-07.21.17:834][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_idle_02_Sprite6F5921C342A0AD2C94FA3C83F411BCE1.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-idle/down_idle_02_Sprite.uasset'
+[2022.12.30-07.21.17:841][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_move_01EC7E37B84CAC8072E38E8A93C76A9A81.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-move/down_move_01.uasset'
+[2022.12.30-07.21.17:869][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_move_01_Sprite2053905B4E1E4668F9E1029198D2678B.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-move/down_move_01_Sprite.uasset'
+[2022.12.30-07.21.17:880][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_move_022606B0C643A76AF11FC19DBE7A3899C6.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-move/down_move_02.uasset'
+[2022.12.30-07.21.17:906][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_move_02_Sprite07B9BB924C125C6D69448CB28402DC7C.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-move/down_move_02_Sprite.uasset'
+[2022.12.30-07.21.17:914][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_move_0309B1350F4BB45F10D1267F9B77D5A541.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-move/down_move_03.uasset'
+[2022.12.30-07.21.17:938][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_move_03_Sprite9E7AF2BB469E15B2AD1FF68766761B2B.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-move/down_move_03_Sprite.uasset'
+[2022.12.30-07.21.17:946][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_move_043B1669314122979D5B01F68481320FE7.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-move/down_move_04.uasset'
+[2022.12.30-07.21.17:970][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_move_04_SpriteAFE7B2C84DFD365784AAD39CB36FBC6D.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-move/down_move_04_Sprite.uasset'
+[2022.12.30-07.21.17:977][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_move_05F7D9650249ACFD3F2B54EBB8BCA189D2.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-move/down_move_05.uasset'
+[2022.12.30-07.21.18:003][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_move_05_SpriteC58BE5264CCDF832F8A16C974AD1549D.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-move/down_move_05_Sprite.uasset'
+[2022.12.30-07.21.18:011][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_move_06D6CCF19848A6AB700A29C89CDD38312F.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-move/down_move_06.uasset'
+[2022.12.30-07.21.18:035][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/down_move_06_Sprite7F9DD8304CA459EBAF75759A62A86E4C.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/down-move/down_move_06_Sprite.uasset'
+[2022.12.30-07.21.18:043][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_attack_01DA4A976B4B79540D66A0389508DEFB46.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-attack/side_attack_01.uasset'
+[2022.12.30-07.21.18:067][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_attack_01_SpriteCE74ADB6453D6335FE8BA59CA2C6FD28.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-attack/side_attack_01_Sprite.uasset'
+[2022.12.30-07.21.18:077][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_attack_02EFAEB3EB474A43D00C0059948880EEFE.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-attack/side_attack_02.uasset'
+[2022.12.30-07.21.18:102][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_attack_02_Sprite075018C7486DBFEE8C777F8A547EC076.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-attack/side_attack_02_Sprite.uasset'
+[2022.12.30-07.21.18:110][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_attack_03898A2AB34AE4E34A2B0D1CB00D71E3CE.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-attack/side_attack_03.uasset'
+[2022.12.30-07.21.18:135][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_attack_03_SpriteDCE375C5446DA91E19DF71BEAE429D6A.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-attack/side_attack_03_Sprite.uasset'
+[2022.12.30-07.21.18:143][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_attack_04A16133E74B7747CC5190569C46F4A8D0.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-attack/side_attack_04.uasset'
+[2022.12.30-07.21.18:173][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_attack_04_SpriteF9E085F4488FA368CDC8E48969E81CD7.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-attack/side_attack_04_Sprite.uasset'
+[2022.12.30-07.21.18:182][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_attack_05840549FF46BB62447A848E8D5523E30B.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-attack/side_attack_05.uasset'
+[2022.12.30-07.21.18:209][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_attack_05_Sprite13D3815D47F8B5EF2BF8BBA6C93E73BB.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-attack/side_attack_05_Sprite.uasset'
+[2022.12.30-07.21.18:218][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_attack_06DDFE35184236908EC6B0A49A617F580C.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-attack/side_attack_06.uasset'
+[2022.12.30-07.21.18:245][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_attack_06_SpriteA27ED7B14155B06085928CB899CB6B59.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-attack/side_attack_06_Sprite.uasset'
+[2022.12.30-07.21.18:254][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_attack_0723EA92E44CB4E63AAB3A648BE5C3A448.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-attack/side_attack_07.uasset'
+[2022.12.30-07.21.18:287][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_attack_07_Sprite15A4FB7E4CAECFCBFF4039A467E95F13.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-attack/side_attack_07_Sprite.uasset'
+[2022.12.30-07.21.18:295][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_attack_08AE45464C44184C2C39164EA3626906E1.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-attack/side_attack_08.uasset'
+[2022.12.30-07.21.18:320][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_attack_08_SpriteBA633D574C79C412363EF29B606581CD.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-attack/side_attack_08_Sprite.uasset'
+[2022.12.30-07.21.18:328][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_idle_01AA8499F6413FF5C9E5D8BD9AEAE0C021.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-idle/side_idle_01.uasset'
+[2022.12.30-07.21.18:353][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_idle_01_SpriteE1818CEE497212B8FEDBA8B8CB3AD109.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-idle/side_idle_01_Sprite.uasset'
+[2022.12.30-07.21.18:360][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_idle_027C92EECF4F165853D5E7DBA03D0DA584.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-idle/side_idle_02.uasset'
+[2022.12.30-07.21.18:385][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_idle_02_Sprite9DE4B64840900BA2A293C29262740D24.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-idle/side_idle_02_Sprite.uasset'
+[2022.12.30-07.21.18:392][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_move_01077180CC4A6BF0B4EB904FB7C8E78564.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-move/side_move_01.uasset'
+[2022.12.30-07.21.18:417][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_move_01_SpriteF36E8C354FF1DE60FCD5A0BEEEAF306A.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-move/side_move_01_Sprite.uasset'
+[2022.12.30-07.21.18:425][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_move_0292CFAC0E4F301E9859C164B407E6DC9B.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-move/side_move_02.uasset'
+[2022.12.30-07.21.18:450][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_move_02_SpriteAE261642442850930693C4B87A83A67E.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-move/side_move_02_Sprite.uasset'
+[2022.12.30-07.21.18:458][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_move_03FEDE95AA4469125663F8EC96F71FE90D.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-move/side_move_03.uasset'
+[2022.12.30-07.21.18:487][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_move_03_SpriteB260FAA640260CA16D4423A8DC77853A.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-move/side_move_03_Sprite.uasset'
+[2022.12.30-07.21.18:495][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_move_0458E3A67E4E61B34061168BA5E107B750.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-move/side_move_04.uasset'
+[2022.12.30-07.21.18:520][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_move_04_Sprite795586444061B33CEAA693B9870008CA.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-move/side_move_04_Sprite.uasset'
+[2022.12.30-07.21.18:528][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_move_050DD38B9140423F41AFF2FFA97238F461.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-move/side_move_05.uasset'
+[2022.12.30-07.21.18:553][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_move_05_Sprite377AEA164AEF1DCE458E13ABB6DA9236.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-move/side_move_05_Sprite.uasset'
+[2022.12.30-07.21.18:563][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_move_064BDBF60841BF52171A610B8163D5A781.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-move/side_move_06.uasset'
+[2022.12.30-07.21.18:588][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/side_move_06_SpriteA27E11FB4FCFD1F50836E28CE00174BD.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/side-move/side_move_06_Sprite.uasset'
+[2022.12.30-07.21.18:595][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_attack_011E44830A442C551DCE451DA7E552B817.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-attack/up_attack_01.uasset'
+[2022.12.30-07.21.18:621][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_attack_01_SpriteA17BC43948D3118936AB85BB751EF2EB.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-attack/up_attack_01_Sprite.uasset'
+[2022.12.30-07.21.18:629][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_attack_02B88E204F48BC9E104592569150DD3F90.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-attack/up_attack_02.uasset'
+[2022.12.30-07.21.18:654][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_attack_02_SpriteED96AB77484849C765579A946A6037D4.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-attack/up_attack_02_Sprite.uasset'
+[2022.12.30-07.21.18:661][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_attack_03EA1947CB4CCB48059CB6878983528344.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-attack/up_attack_03.uasset'
+[2022.12.30-07.21.18:694][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_attack_03_SpriteBE09AC58439B837A0F0D0CBF8433DE88.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-attack/up_attack_03_Sprite.uasset'
+[2022.12.30-07.21.18:702][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_attack_043AAE9DE64009B189BDB274BE5E79D53C.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-attack/up_attack_04.uasset'
+[2022.12.30-07.21.18:728][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_attack_04_Sprite6578D78940350A78B1AB399FAE3098B9.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-attack/up_attack_04_Sprite.uasset'
+[2022.12.30-07.21.18:737][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_attack_05E40C37FE4C59765F01C9A1B94ABFE600.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-attack/up_attack_05.uasset'
+[2022.12.30-07.21.18:767][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_attack_05_Sprite96626F7D480D9FF857E98C9DE7C0F46D.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-attack/up_attack_05_Sprite.uasset'
+[2022.12.30-07.21.18:778][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_attack_0662216D544C17B73299DAA1AC584227B6.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-attack/up_attack_06.uasset'
+[2022.12.30-07.21.18:806][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_attack_06_SpriteB91673E84B9A51748ED4E299658E118A.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-attack/up_attack_06_Sprite.uasset'
+[2022.12.30-07.21.18:815][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_attack_07DD60412D47A1F53EF27DDD962D00F3FB.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-attack/up_attack_07.uasset'
+[2022.12.30-07.21.18:844][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_attack_07_Sprite2248922F41CEC96E992048ACC793AF04.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-attack/up_attack_07_Sprite.uasset'
+[2022.12.30-07.21.18:853][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_attack_08CAD30BBA4CE737FE5692FD83E34CC881.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-attack/up_attack_08.uasset'
+[2022.12.30-07.21.18:885][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_attack_08_SpriteBD44EFA644138317CDB690A3B0FC8084.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-attack/up_attack_08_Sprite.uasset'
+[2022.12.30-07.21.18:888][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Knight/up-idle/up_idle_01" FILE="../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-idle/up_idle_01.uasset" SILENT=true
+[2022.12.30-07.21.18:893][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_idle_0145FE8EB9452F2EB1EF41FE8424340327.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-idle/up_idle_01.uasset'
+[2022.12.30-07.21.18:922][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_idle_01_SpriteC970622242C93CD958513C9188E84BFA.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-idle/up_idle_01_Sprite.uasset'
+[2022.12.30-07.21.18:925][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Knight/up-idle/up_idle_02" FILE="../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-idle/up_idle_02.uasset" SILENT=true
+[2022.12.30-07.21.18:930][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_idle_029B29BAB34E054156D9E3A39B279AD412.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-idle/up_idle_02.uasset'
+[2022.12.30-07.21.18:960][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_idle_02_SpriteA9B426A74F7776410AFFC7A8FE6BB90D.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-idle/up_idle_02_Sprite.uasset'
+[2022.12.30-07.21.18:963][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Knight/up-move/up_move_01" FILE="../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-move/up_move_01.uasset" SILENT=true
+[2022.12.30-07.21.18:969][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_move_01590449D942C105B1266025BF22870EA3.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-move/up_move_01.uasset'
+[2022.12.30-07.21.18:996][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_move_01_SpriteF0A54AB543B836A6101AA99B03367DC0.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-move/up_move_01_Sprite.uasset'
+[2022.12.30-07.21.18:999][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Knight/up-move/up_move_02" FILE="../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-move/up_move_02.uasset" SILENT=true
+[2022.12.30-07.21.19:005][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_move_02FB9158AF49C9F2AF737465B8A8CF873B.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-move/up_move_02.uasset'
+[2022.12.30-07.21.19:031][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_move_02_Sprite1B894BCD408471FEC7A6BD97EBE6E52A.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-move/up_move_02_Sprite.uasset'
+[2022.12.30-07.21.19:034][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Knight/up-move/up_move_03" FILE="../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-move/up_move_03.uasset" SILENT=true
+[2022.12.30-07.21.19:039][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_move_03B6B50D6C4BFBECF0802E4799611F150A.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-move/up_move_03.uasset'
+[2022.12.30-07.21.19:065][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_move_03_SpriteAF87D9B646D4FCA9A15A08A7D3BBC99F.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-move/up_move_03_Sprite.uasset'
+[2022.12.30-07.21.19:067][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Knight/up-move/up_move_04" FILE="../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-move/up_move_04.uasset" SILENT=true
+[2022.12.30-07.21.19:072][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_move_04DFF0F9404AADDF94D04B689B65F13C38.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-move/up_move_04.uasset'
+[2022.12.30-07.21.19:102][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_move_04_SpriteC0B4DD0F4467B6147B6B249961404C4C.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-move/up_move_04_Sprite.uasset'
+[2022.12.30-07.21.19:105][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Knight/up-move/up_move_05" FILE="../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-move/up_move_05.uasset" SILENT=true
+[2022.12.30-07.21.19:110][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_move_054D2BB5984926C07B8A357F9F49CCA23B.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-move/up_move_05.uasset'
+[2022.12.30-07.21.19:148][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_move_05_SpriteA9DC89B943DEBD62F0C6BFBDF6BC8425.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-move/up_move_05_Sprite.uasset'
+[2022.12.30-07.21.19:151][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Knight/up-move/up_move_06" FILE="../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-move/up_move_06.uasset" SILENT=true
+[2022.12.30-07.21.19:157][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_move_06AB4E4820453309973D5454954F3695DD.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-move/up_move_06.uasset'
+[2022.12.30-07.21.19:192][555]LogSavePackage: Moving '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Saved/up_move_06_Sprite656221B34BB97A3B0888C697AAF61E3E.tmp' to '../../../../../../Users/ryu/Documents/Unreal Projects/UE4_BP_01/Content/Sprites/Knight/up-move/up_move_06_Sprite.uasset'
+[2022.12.30-07.21.19:368][555]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.12.30-07.21.19:368][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.30-07.21.19:783][555]LogSlate: Window 'UE4_BP_01 - 언리얼 에디터' being destroyed
+[2022.12.30-07.21.21:009][555]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2022.12.30-07.21.21:010][555]LogContentValidation: Display: PaperSprite /Game/Sprites/BG_Sprite.BG_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:010][555]LogContentValidation: Display: Texture2D /Game/Sprites/BG.BG 유효성 검사 중
+[2022.12.30-07.21.21:010][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/up-move/up_move_06_Sprite.up_move_06_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:010][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/up-move/up_move_05_Sprite.up_move_05_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:010][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/up-move/up_move_04_Sprite.up_move_04_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:011][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/up-move/up_move_03_Sprite.up_move_03_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:011][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/up-move/up_move_02_Sprite.up_move_02_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:011][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/up-move/up_move_01_Sprite.up_move_01_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:011][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/up-idle/up_idle_02_Sprite.up_idle_02_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:011][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/up-idle/up_idle_01_Sprite.up_idle_01_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:011][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/up-attack/up_attack_08_Sprite.up_attack_08_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:011][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/up-attack/up_attack_07_Sprite.up_attack_07_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:011][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/up-attack/up_attack_06_Sprite.up_attack_06_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:011][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/up-attack/up_attack_05_Sprite.up_attack_05_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:012][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/up-attack/up_attack_04_Sprite.up_attack_04_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:012][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/up-attack/up_attack_03_Sprite.up_attack_03_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:017][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/up-attack/up_attack_02_Sprite.up_attack_02_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:018][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/up-attack/up_attack_01_Sprite.up_attack_01_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:018][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/side-move/side_move_06_Sprite.side_move_06_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:018][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/side-move/side_move_05_Sprite.side_move_05_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:018][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/side-move/side_move_04_Sprite.side_move_04_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:018][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/side-move/side_move_03_Sprite.side_move_03_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:018][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/side-move/side_move_02_Sprite.side_move_02_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:018][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/side-move/side_move_01_Sprite.side_move_01_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:018][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/side-idle/side_idle_02_Sprite.side_idle_02_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:018][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/side-idle/side_idle_01_Sprite.side_idle_01_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:018][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/side-attack/side_attack_08_Sprite.side_attack_08_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:019][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/side-attack/side_attack_07_Sprite.side_attack_07_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:019][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/side-attack/side_attack_06_Sprite.side_attack_06_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:019][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/side-attack/side_attack_05_Sprite.side_attack_05_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:020][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/side-attack/side_attack_04_Sprite.side_attack_04_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:020][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/side-attack/side_attack_03_Sprite.side_attack_03_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:020][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/side-attack/side_attack_02_Sprite.side_attack_02_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:020][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/side-attack/side_attack_01_Sprite.side_attack_01_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:020][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/down-move/down_move_06_Sprite.down_move_06_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:020][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/down-move/down_move_05_Sprite.down_move_05_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:020][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/down-move/down_move_04_Sprite.down_move_04_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:020][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/down-move/down_move_03_Sprite.down_move_03_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:021][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/down-move/down_move_02_Sprite.down_move_02_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:021][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/down-move/down_move_01_Sprite.down_move_01_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:021][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/down-idle/down_idle_02_Sprite.down_idle_02_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:021][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/down-idle/down_idle_01_Sprite.down_idle_01_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:022][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/down-attack/down_attack_08_Sprite.down_attack_08_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:022][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/down-attack/down_attack_07_Sprite.down_attack_07_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:025][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/down-attack/down_attack_06_Sprite.down_attack_06_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:025][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/down-attack/down_attack_05_Sprite.down_attack_05_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:025][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/down-attack/down_attack_04_Sprite.down_attack_04_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:026][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/down-attack/down_attack_03_Sprite.down_attack_03_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:032][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/down-attack/down_attack_02_Sprite.down_attack_02_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:032][555]LogContentValidation: Display: PaperSprite /Game/Sprites/Knight/down-attack/down_attack_01_Sprite.down_attack_01_Sprite 유효성 검사 중
+[2022.12.30-07.21.21:036][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/up-move/up_move_06.up_move_06 유효성 검사 중
+[2022.12.30-07.21.21:036][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/up-move/up_move_05.up_move_05 유효성 검사 중
+[2022.12.30-07.21.21:036][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/up-move/up_move_04.up_move_04 유효성 검사 중
+[2022.12.30-07.21.21:037][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/up-move/up_move_03.up_move_03 유효성 검사 중
+[2022.12.30-07.21.21:037][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/up-move/up_move_02.up_move_02 유효성 검사 중
+[2022.12.30-07.21.21:038][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/up-move/up_move_01.up_move_01 유효성 검사 중
+[2022.12.30-07.21.21:038][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/up-idle/up_idle_02.up_idle_02 유효성 검사 중
+[2022.12.30-07.21.21:038][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/up-idle/up_idle_01.up_idle_01 유효성 검사 중
+[2022.12.30-07.21.21:038][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/up-attack/up_attack_08.up_attack_08 유효성 검사 중
+[2022.12.30-07.21.21:038][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/up-attack/up_attack_07.up_attack_07 유효성 검사 중
+[2022.12.30-07.21.21:038][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/up-attack/up_attack_06.up_attack_06 유효성 검사 중
+[2022.12.30-07.21.21:039][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/up-attack/up_attack_05.up_attack_05 유효성 검사 중
+[2022.12.30-07.21.21:039][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/up-attack/up_attack_04.up_attack_04 유효성 검사 중
+[2022.12.30-07.21.21:039][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/up-attack/up_attack_03.up_attack_03 유효성 검사 중
+[2022.12.30-07.21.21:039][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/up-attack/up_attack_02.up_attack_02 유효성 검사 중
+[2022.12.30-07.21.21:039][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/up-attack/up_attack_01.up_attack_01 유효성 검사 중
+[2022.12.30-07.21.21:039][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/side-move/side_move_06.side_move_06 유효성 검사 중
+[2022.12.30-07.21.21:039][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/side-move/side_move_05.side_move_05 유효성 검사 중
+[2022.12.30-07.21.21:040][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/side-move/side_move_04.side_move_04 유효성 검사 중
+[2022.12.30-07.21.21:040][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/side-move/side_move_03.side_move_03 유효성 검사 중
+[2022.12.30-07.21.21:040][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/side-move/side_move_02.side_move_02 유효성 검사 중
+[2022.12.30-07.21.21:040][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/side-move/side_move_01.side_move_01 유효성 검사 중
+[2022.12.30-07.21.21:040][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/side-idle/side_idle_02.side_idle_02 유효성 검사 중
+[2022.12.30-07.21.21:040][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/side-idle/side_idle_01.side_idle_01 유효성 검사 중
+[2022.12.30-07.21.21:040][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/side-attack/side_attack_08.side_attack_08 유효성 검사 중
+[2022.12.30-07.21.21:040][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/side-attack/side_attack_07.side_attack_07 유효성 검사 중
+[2022.12.30-07.21.21:041][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/side-attack/side_attack_06.side_attack_06 유효성 검사 중
+[2022.12.30-07.21.21:041][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/side-attack/side_attack_05.side_attack_05 유효성 검사 중
+[2022.12.30-07.21.21:041][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/side-attack/side_attack_04.side_attack_04 유효성 검사 중
+[2022.12.30-07.21.21:041][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/side-attack/side_attack_03.side_attack_03 유효성 검사 중
+[2022.12.30-07.21.21:041][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/side-attack/side_attack_02.side_attack_02 유효성 검사 중
+[2022.12.30-07.21.21:041][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/side-attack/side_attack_01.side_attack_01 유효성 검사 중
+[2022.12.30-07.21.21:041][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/down-move/down_move_06.down_move_06 유효성 검사 중
+[2022.12.30-07.21.21:042][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/down-move/down_move_05.down_move_05 유효성 검사 중
+[2022.12.30-07.21.21:043][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/down-move/down_move_04.down_move_04 유효성 검사 중
+[2022.12.30-07.21.21:043][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/down-move/down_move_03.down_move_03 유효성 검사 중
+[2022.12.30-07.21.21:043][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/down-move/down_move_02.down_move_02 유효성 검사 중
+[2022.12.30-07.21.21:043][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/down-move/down_move_01.down_move_01 유효성 검사 중
+[2022.12.30-07.21.21:044][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/down-idle/down_idle_02.down_idle_02 유효성 검사 중
+[2022.12.30-07.21.21:047][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/down-idle/down_idle_01.down_idle_01 유효성 검사 중
+[2022.12.30-07.21.21:047][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/down-attack/down_attack_08.down_attack_08 유효성 검사 중
+[2022.12.30-07.21.21:047][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/down-attack/down_attack_07.down_attack_07 유효성 검사 중
+[2022.12.30-07.21.21:048][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/down-attack/down_attack_06.down_attack_06 유효성 검사 중
+[2022.12.30-07.21.21:048][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/down-attack/down_attack_05.down_attack_05 유효성 검사 중
+[2022.12.30-07.21.21:048][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/down-attack/down_attack_04.down_attack_04 유효성 검사 중
+[2022.12.30-07.21.21:048][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/down-attack/down_attack_03.down_attack_03 유효성 검사 중
+[2022.12.30-07.21.21:048][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/down-attack/down_attack_02.down_attack_02 유효성 검사 중
+[2022.12.30-07.21.21:048][555]LogContentValidation: Display: Texture2D /Game/Sprites/Knight/down-attack/down_attack_01.down_attack_01 유효성 검사 중
+[2022.12.30-07.21.21:194][556]Cmd: QUIT_EDITOR
+[2022.12.30-07.21.21:194][556]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.12.30-07.21.21:211][556]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.12.30-07.21.21:577][556]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.12.30-07.21.21:577][556]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.12.30-07.21.21:577][556]LogAudio: Display: Audio Device unregistered from world 'DevMap'.
+[2022.12.30-07.21.21:577][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.30-07.21.21:580][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.30-07.21.21:631][556]LogAudio: Display: Audio Device Manager Shutdown
+[2022.12.30-07.21.21:634][556]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (한컴 입력기).
+[2022.12.30-07.21.21:656][556]LogExit: Preparing to exit.
+[2022.12.30-07.21.22:361][556]LogUObjectHash: Compacting FUObjectHashTables data took  11.28ms
+[2022.12.30-07.21.22:664][556]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.12.30-07.21.22:671][556]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.30-07.21.22:783][556]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.12.30-07.21.22:822][556]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.12.30-07.21.22:823][556]LogExit: Editor shut down
+[2022.12.30-07.21.22:832][556]LogExit: Transaction tracking system shut down
+[2022.12.30-07.21.23:910][556]LogExit: Object subsystem successfully closed.
+[2022.12.30-07.21.23:964][556]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.30-07.21.23:964][556]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2022.12.30-07.21.23:964][556]LogShaderCompilers: Display: Tracking 16 distinct input hashes that result in 13 distinct outputs (81.25%)
+[2022.12.30-07.21.23:964][556]LogShaderCompilers: Display: RAM used: 0.07 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2022.12.30-07.21.23:964][556]LogShaderCompilers: Display: ================================================
+[2022.12.30-07.21.23:988][556]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.12.30-07.21.24:196][556]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (884)
+[2022.12.30-07.21.24:196][556]LogModuleManager: Shutting down and abandoning module TextureEditor (882)
+[2022.12.30-07.21.24:196][556]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (880)
+[2022.12.30-07.21.24:196][556]LogModuleManager: Shutting down and abandoning module NewLevelDialog (878)
+[2022.12.30-07.21.24:196][556]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (876)
+[2022.12.30-07.21.24:196][556]LogModuleManager: Shutting down and abandoning module Voice (874)
+[2022.12.30-07.21.24:196][556]LogModuleManager: Shutting down and abandoning module BlueprintGraph (872)
+[2022.12.30-07.21.24:196][556]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2022.12.30-07.21.24:196][556]LogModuleManager: Shutting down and abandoning module AddContentDialog (868)
+[2022.12.30-07.21.24:204][556]LogModuleManager: Shutting down and abandoning module WidgetCarousel (867)
+[2022.12.30-07.21.24:205][556]LogModuleManager: Shutting down and abandoning module EditorWidgets (864)
+[2022.12.30-07.21.24:205][556]LogModuleManager: Shutting down and abandoning module SceneOutliner (862)
+[2022.12.30-07.21.24:205][556]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2022.12.30-07.21.24:205][556]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2022.12.30-07.21.24:205][556]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2022.12.30-07.21.24:205][556]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2022.12.30-07.21.24:205][556]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2022.12.30-07.21.24:205][556]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2022.12.30-07.21.24:205][556]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (848)
+[2022.12.30-07.21.24:205][556]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (846)
+[2022.12.30-07.21.24:205][556]LogModuleManager: Shutting down and abandoning module TakeRecorder (845)
+[2022.12.30-07.21.24:206][556]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (842)
+[2022.12.30-07.21.24:206][556]LogModuleManager: Shutting down and abandoning module TakesCore (840)
+[2022.12.30-07.21.24:206][556]LogModuleManager: Shutting down and abandoning module OpenXRInput (838)
+[2022.12.30-07.21.24:206][556]LogModuleManager: Shutting down and abandoning module GooglePADEditor (836)
+[2022.12.30-07.21.24:206][556]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (834)
+[2022.12.30-07.21.24:206][556]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (832)
+[2022.12.30-07.21.24:206][556]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (830)
+[2022.12.30-07.21.24:206][556]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (828)
+[2022.12.30-07.21.24:206][556]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (826)
+[2022.12.30-07.21.24:206][556]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (824)
+[2022.12.30-07.21.24:207][556]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (822)
+[2022.12.30-07.21.24:207][556]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (820)
+[2022.12.30-07.21.24:207][556]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (818)
+[2022.12.30-07.21.24:207][556]LogModuleManager: Shutting down and abandoning module WebMMedia (816)
+[2022.12.30-07.21.24:207][556]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (814)
+[2022.12.30-07.21.24:207][556]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (812)
+[2022.12.30-07.21.24:207][556]LogModuleManager: Shutting down and abandoning module SequenceRecorder (811)
+[2022.12.30-07.21.24:207][556]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (808)
+[2022.12.30-07.21.24:207][556]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (806)
+[2022.12.30-07.21.24:207][556]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (804)
+[2022.12.30-07.21.24:207][556]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (802)
+[2022.12.30-07.21.24:207][556]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (800)
+[2022.12.30-07.21.24:207][556]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (798)
+[2022.12.30-07.21.24:207][556]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (796)
+[2022.12.30-07.21.24:207][556]LogModuleManager: Shutting down and abandoning module PlanarCut (794)
+[2022.12.30-07.21.24:207][556]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (792)
+[2022.12.30-07.21.24:207][556]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (790)
+[2022.12.30-07.21.24:207][556]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (788)
+[2022.12.30-07.21.24:207][556]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2022.12.30-07.21.24:207][556]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2022.12.30-07.21.24:207][556]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2022.12.30-07.21.24:207][556]LogModuleManager: Shutting down and abandoning module CharacterAI (780)
+[2022.12.30-07.21.24:207][556]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2022.12.30-07.21.24:208][556]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2022.12.30-07.21.24:208][556]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2022.12.30-07.21.24:208][556]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2022.12.30-07.21.24:208][556]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2022.12.30-07.21.24:208][556]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2022.12.30-07.21.24:208][556]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2022.12.30-07.21.24:208][556]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2022.12.30-07.21.24:208][556]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2022.12.30-07.21.24:208][556]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2022.12.30-07.21.24:209][556]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2022.12.30-07.21.24:209][556]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2022.12.30-07.21.24:209][556]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2022.12.30-07.21.24:209][556]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2022.12.30-07.21.24:209][556]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2022.12.30-07.21.24:209][556]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2022.12.30-07.21.24:210][556]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2022.12.30-07.21.24:210][556]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2022.12.30-07.21.24:210][556]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2022.12.30-07.21.24:210][556]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2022.12.30-07.21.24:210][556]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2022.12.30-07.21.25:406][556]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2022.12.30-07.21.25:406][556]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2022.12.30-07.21.25:406][556]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2022.12.30-07.21.25:406][556]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2022.12.30-07.21.25:406][556]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2022.12.30-07.21.25:406][556]MemoryProfiler: Shutdown
+[2022.12.30-07.21.25:407][556]NetworkingProfiler: Shutdown
+[2022.12.30-07.21.25:407][556]LoadingProfiler: Shutdown
+[2022.12.30-07.21.25:407][556]TimingProfiler: Shutdown
+[2022.12.30-07.21.25:407][556]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2022.12.30-07.21.25:407][556]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2022.12.30-07.21.25:407][556]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2022.12.30-07.21.25:407][556]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2022.12.30-07.21.25:408][556]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2022.12.30-07.21.25:408][556]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2022.12.30-07.21.25:408][556]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2022.12.30-07.21.25:408][556]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2022.12.30-07.21.25:408][556]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2022.12.30-07.21.25:408][556]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2022.12.30-07.21.25:408][556]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2022.12.30-07.21.25:408][556]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2022.12.30-07.21.25:408][556]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2022.12.30-07.21.25:408][556]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2022.12.30-07.21.25:409][556]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2022.12.30-07.21.25:409][556]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2022.12.30-07.21.25:409][556]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2022.12.30-07.21.25:409][556]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2022.12.30-07.21.25:410][556]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2022.12.30-07.21.25:410][556]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2022.12.30-07.21.25:410][556]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2022.12.30-07.21.25:410][556]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2022.12.30-07.21.25:443][556]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2022.12.30-07.21.25:443][556]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2022.12.30-07.21.25:443][556]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2022.12.30-07.21.25:443][556]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2022.12.30-07.21.25:443][556]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2022.12.30-07.21.25:443][556]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2022.12.30-07.21.25:444][556]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2022.12.30-07.21.25:444][556]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2022.12.30-07.21.25:444][556]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2022.12.30-07.21.25:444][556]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2022.12.30-07.21.25:444][556]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2022.12.30-07.21.25:483][556]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2022.12.30-07.21.25:483][556]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2022.12.30-07.21.25:484][556]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2022.12.30-07.21.25:484][556]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2022.12.30-07.21.25:494][556]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2022.12.30-07.21.25:494][556]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2022.12.30-07.21.25:494][556]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2022.12.30-07.21.25:502][556]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2022.12.30-07.21.25:502][556]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2022.12.30-07.21.25:518][556]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2022.12.30-07.21.25:518][556]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2022.12.30-07.21.25:518][556]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2022.12.30-07.21.25:518][556]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2022.12.30-07.21.25:518][556]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2022.12.30-07.21.25:518][556]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2022.12.30-07.21.25:518][556]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2022.12.30-07.21.25:518][556]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2022.12.30-07.21.25:518][556]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2022.12.30-07.21.25:518][556]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2022.12.30-07.21.25:518][556]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2022.12.30-07.21.25:518][556]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2022.12.30-07.21.25:518][556]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2022.12.30-07.21.25:518][556]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2022.12.30-07.21.25:518][556]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2022.12.30-07.21.25:519][556]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2022.12.30-07.21.25:519][556]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2022.12.30-07.21.25:531][556]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2022.12.30-07.21.25:767][556]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2022.12.30-07.21.25:767][556]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2022.12.30-07.21.25:767][556]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2022.12.30-07.21.25:768][556]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2022.12.30-07.21.25:768][556]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (598)
+[2022.12.30-07.21.25:768][556]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (596)
+[2022.12.30-07.21.25:768][556]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (594)
+[2022.12.30-07.21.25:768][556]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2022.12.30-07.21.25:769][556]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (590)
+[2022.12.30-07.21.25:769][556]LogModuleManager: Shutting down and abandoning module TakeSequencer (588)
+[2022.12.30-07.21.25:769][556]LogModuleManager: Shutting down and abandoning module TakeMovieScene (586)
+[2022.12.30-07.21.25:769][556]LogModuleManager: Shutting down and abandoning module SynthesisEditor (584)
+[2022.12.30-07.21.25:769][556]LogModuleManager: Shutting down and abandoning module Synthesis (582)
+[2022.12.30-07.21.25:769][556]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (580)
+[2022.12.30-07.21.25:769][556]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (578)
+[2022.12.30-07.21.25:769][556]LogModuleManager: Shutting down and abandoning module ScreenshotTools (576)
+[2022.12.30-07.21.25:769][556]LogModuleManager: Shutting down and abandoning module OpenXREditor (574)
+[2022.12.30-07.21.25:769][556]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (572)
+[2022.12.30-07.21.25:769][556]LogModuleManager: Shutting down and abandoning module GooglePAD (570)
+[2022.12.30-07.21.25:769][556]LogModuleManager: Shutting down and abandoning module EditableMesh (568)
+[2022.12.30-07.21.25:769][556]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (566)
+[2022.12.30-07.21.25:769][556]LogModuleManager: Shutting down and abandoning module CableComponent (564)
+[2022.12.30-07.21.25:769][556]LogModuleManager: Shutting down and abandoning module AudioCapture (562)
+[2022.12.30-07.21.25:769][556]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (561)
+[2022.12.30-07.21.25:770][556]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (558)
+[2022.12.30-07.21.25:770][556]LogModuleManager: Shutting down and abandoning module AssetTags (556)
+[2022.12.30-07.21.25:770][556]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (554)
+[2022.12.30-07.21.25:770][556]LogModuleManager: Shutting down and abandoning module AppleImageUtils (552)
+[2022.12.30-07.21.25:770][556]LogModuleManager: Shutting down and abandoning module AndroidPermission (550)
+[2022.12.30-07.21.25:770][556]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (548)
+[2022.12.30-07.21.25:770][556]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (546)
+[2022.12.30-07.21.25:770][556]LogModuleManager: Shutting down and abandoning module TemplateSequence (544)
+[2022.12.30-07.21.25:770][556]LogModuleManager: Shutting down and abandoning module MediaCompositing (542)
+[2022.12.30-07.21.25:770][556]LogModuleManager: Shutting down and abandoning module ImgMedia (540)
+[2022.12.30-07.21.25:770][556]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (538)
+[2022.12.30-07.21.25:770][556]LogOpenImageDenoise: OIDN shutting down
+[2022.12.30-07.21.25:770][556]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (536)
+[2022.12.30-07.21.25:770][556]LogModuleManager: Shutting down and abandoning module MotoSynth (534)
+[2022.12.30-07.21.25:770][556]LogModuleManager: Shutting down and abandoning module MeshConversion (532)
+[2022.12.30-07.21.25:770][556]LogModuleManager: Shutting down and abandoning module DynamicMesh (530)
+[2022.12.30-07.21.25:770][556]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (528)
+[2022.12.30-07.21.25:770][556]LogModuleManager: Shutting down and abandoning module GeometricObjects (526)
+[2022.12.30-07.21.25:770][556]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (524)
+[2022.12.30-07.21.25:770][556]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (522)
+[2022.12.30-07.21.25:770][556]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (520)
+[2022.12.30-07.21.25:770][556]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (518)
+[2022.12.30-07.21.25:770][556]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (516)
+[2022.12.30-07.21.25:771][556]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (514)
+[2022.12.30-07.21.25:771][556]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (512)
+[2022.12.30-07.21.25:771][556]LogModuleManager: Shutting down and abandoning module PluginBrowser (510)
+[2022.12.30-07.21.25:771][556]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (508)
+[2022.12.30-07.21.25:771][556]LogModuleManager: Shutting down and abandoning module CurveEditorTools (506)
+[2022.12.30-07.21.25:771][556]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (504)
+[2022.12.30-07.21.25:771][556]LogModuleManager: Shutting down and abandoning module CryptoKeys (502)
+[2022.12.30-07.21.25:771][556]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (500)
+[2022.12.30-07.21.25:771][556]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (499)
+[2022.12.30-07.21.25:771][556]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (496)
+[2022.12.30-07.21.25:771][556]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (494)
+[2022.12.30-07.21.25:771][556]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (492)
+[2022.12.30-07.21.25:771][556]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (490)
+[2022.12.30-07.21.25:771][556]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (488)
+[2022.12.30-07.21.25:771][556]LogModuleManager: Shutting down and abandoning module ChaosNiagara (486)
+[2022.12.30-07.21.25:771][556]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (484)
+[2022.12.30-07.21.25:771][556]LogModuleManager: Shutting down and abandoning module FractureEditor (482)
+[2022.12.30-07.21.25:771][556]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (481)
+[2022.12.30-07.21.25:771][556]LogModuleManager: Shutting down and abandoning module BackChannel (478)
+[2022.12.30-07.21.25:771][556]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (476)
+[2022.12.30-07.21.25:771][556]LogModuleManager: Shutting down and abandoning module AutomationUtils (474)
+[2022.12.30-07.21.25:771][556]LogModuleManager: Shutting down and abandoning module AlembicImporter (472)
+[2022.12.30-07.21.25:772][556]LogModuleManager: Shutting down and abandoning module AlembicLibrary (471)
+[2022.12.30-07.21.25:772][556]LogModuleManager: Shutting down and abandoning module GeometryCache (470)
+[2022.12.30-07.21.25:772][556]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (469)
+[2022.12.30-07.21.25:772][556]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (464)
+[2022.12.30-07.21.25:772][556]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (462)
+[2022.12.30-07.21.25:772][556]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (460)
+[2022.12.30-07.21.25:772][556]LogModuleManager: Shutting down and abandoning module UObjectPlugin (458)
+[2022.12.30-07.21.25:772][556]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (456)
+[2022.12.30-07.21.25:772][556]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (454)
+[2022.12.30-07.21.25:772][556]LogModuleManager: Shutting down and abandoning module PluginUtils (452)
+[2022.12.30-07.21.25:772][556]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (450)
+[2022.12.30-07.21.25:772][556]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (448)
+[2022.12.30-07.21.25:773][556]LogModuleManager: Shutting down and abandoning module GitSourceControl (446)
+[2022.12.30-07.21.25:773][556]LogModuleManager: Shutting down and abandoning module SourceControl (445)
+[2022.12.30-07.21.25:773][556]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (442)
+[2022.12.30-07.21.25:773][556]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (440)
+[2022.12.30-07.21.25:773][556]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (438)
+[2022.12.30-07.21.25:773][556]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (436)
+[2022.12.30-07.21.25:773][556]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (434)
+[2022.12.30-07.21.25:773][556]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (432)
+[2022.12.30-07.21.25:773][556]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (430)
+[2022.12.30-07.21.25:773][556]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (428)
+[2022.12.30-07.21.25:773][556]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (426)
+[2022.12.30-07.21.25:773][556]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (424)
+[2022.12.30-07.21.25:773][556]LogModuleManager: Shutting down and abandoning module LiveLink (422)
+[2022.12.30-07.21.26:389][556]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2022.12.30-07.21.26:389][556]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2022.12.30-07.21.26:389][556]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2022.12.30-07.21.26:389][556]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2022.12.30-07.21.26:389][556]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2022.12.30-07.21.26:390][556]LogModuleManager: Shutting down and abandoning module GameplayCameras (410)
+[2022.12.30-07.21.26:390][556]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (408)
+[2022.12.30-07.21.26:390][556]LogModuleManager: Shutting down and abandoning module SoundFields (406)
+[2022.12.30-07.21.26:390][556]LogModuleManager: Shutting down and abandoning module SignificanceManager (404)
+[2022.12.30-07.21.26:390][556]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (402)
+[2022.12.30-07.21.26:390][556]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (400)
+[2022.12.30-07.21.26:390][556]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (398)
+[2022.12.30-07.21.26:390][556]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (394)
+[2022.12.30-07.21.26:390][556]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (392)
+[2022.12.30-07.21.26:390][556]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (390)
+[2022.12.30-07.21.26:390][556]LogModuleManager: Shutting down and abandoning module ActorSequence (388)
+[2022.12.30-07.21.26:390][556]LogModuleManager: Shutting down and abandoning module UdpMessaging (386)
+[2022.12.30-07.21.26:491][556]LogModuleManager: Shutting down and abandoning module TcpMessaging (384)
+[2022.12.30-07.21.26:592][556]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (382)
+[2022.12.30-07.21.26:592][556]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (380)
+[2022.12.30-07.21.26:592][556]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (378)
+[2022.12.30-07.21.26:592][556]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (376)
+[2022.12.30-07.21.26:592][556]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (374)
+[2022.12.30-07.21.26:592][556]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (372)
+[2022.12.30-07.21.26:592][556]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (370)
+[2022.12.30-07.21.26:592][556]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.12.30-07.21.26:592][556]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (368)
+[2022.12.30-07.21.26:592][556]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (366)
+[2022.12.30-07.21.26:592][556]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (364)
+[2022.12.30-07.21.26:593][556]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (362)
+[2022.12.30-07.21.26:593][556]LogModuleManager: Shutting down and abandoning module MagicLeapController (360)
+[2022.12.30-07.21.26:593][556]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (358)
+[2022.12.30-07.21.26:593][556]LogModuleManager: Shutting down and abandoning module MagicLeapAR (356)
+[2022.12.30-07.21.26:593][556]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (354)
+[2022.12.30-07.21.26:593][556]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (352)
+[2022.12.30-07.21.26:593][556]LogModuleManager: Shutting down and abandoning module FacialAnimation (350)
+[2022.12.30-07.21.26:593][556]LogModuleManager: Shutting down and abandoning module DataValidation (348)
+[2022.12.30-07.21.26:593][556]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (346)
+[2022.12.30-07.21.26:593][556]LogModuleManager: Shutting down and abandoning module LevelEditor (345)
+[2022.12.30-07.21.26:600][556]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (344)
+[2022.12.30-07.21.26:600][556]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (342)
+[2022.12.30-07.21.26:601][556]LogModuleManager: Shutting down and abandoning module MainFrame (340)
+[2022.12.30-07.21.26:601][556]LogModuleManager: Shutting down and abandoning module HotReload (339)
+[2022.12.30-07.21.26:603][556]LogModuleManager: Shutting down and abandoning module ToolMenus (335)
+[2022.12.30-07.21.26:603][556]LogModuleManager: Shutting down and abandoning module TreeMap (333)
+[2022.12.30-07.21.26:603][556]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (330)
+[2022.12.30-07.21.26:603][556]LogModuleManager: Shutting down and abandoning module Niagara (328)
+[2022.12.30-07.21.26:603][556]LogModuleManager: Shutting down and abandoning module SignalProcessing (327)
+[2022.12.30-07.21.26:603][556]LogModuleManager: Shutting down and abandoning module NiagaraEditor (325)
+[2022.12.30-07.21.26:604][556]LogModuleManager: Shutting down and abandoning module ContentBrowser (324)
+[2022.12.30-07.21.26:604][556]LogModuleManager: Shutting down and abandoning module ContentBrowserData (323)
+[2022.12.30-07.21.26:604][556]LogModuleManager: Shutting down and abandoning module NiagaraCore (318)
+[2022.12.30-07.21.26:604][556]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (316)
+[2022.12.30-07.21.26:604][556]LogModuleManager: Shutting down and abandoning module AnimationSharing (314)
+[2022.12.30-07.21.26:605][556]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2022.12.30-07.21.26:605][556]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2022.12.30-07.21.26:605][556]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2022.12.30-07.21.26:628][556]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2022.12.30-07.21.26:628][556]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2022.12.30-07.21.26:628][556]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2022.12.30-07.21.26:628][556]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2022.12.30-07.21.26:628][556]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2022.12.30-07.21.26:628][556]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2022.12.30-07.21.26:628][556]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2022.12.30-07.21.26:628][556]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2022.12.30-07.21.26:628][556]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2022.12.30-07.21.26:628][556]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2022.12.30-07.21.26:628][556]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2022.12.30-07.21.26:628][556]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2022.12.30-07.21.26:628][556]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2022.12.30-07.21.26:628][556]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2022.12.30-07.21.26:629][556]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2022.12.30-07.21.26:629][556]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2022.12.30-07.21.26:629][556]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2022.12.30-07.21.26:629][556]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2022.12.30-07.21.26:629][556]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2022.12.30-07.21.26:629][556]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2022.12.30-07.21.26:629][556]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2022.12.30-07.21.26:631][556]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2022.12.30-07.21.26:631][556]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2022.12.30-07.21.26:631][556]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2022.12.30-07.21.26:631][556]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2022.12.30-07.21.26:631][556]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2022.12.30-07.21.26:631][556]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2022.12.30-07.21.26:631][556]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2022.12.30-07.21.26:631][556]LogModuleManager: Shutting down and abandoning module Core (248)
+[2022.12.30-07.21.26:631][556]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2022.12.30-07.21.26:631][556]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2022.12.30-07.21.26:632][556]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2022.12.30-07.21.26:632][556]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2022.12.30-07.21.26:633][556]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2022.12.30-07.21.26:639][556]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2022.12.30-07.21.26:639][556]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2022.12.30-07.21.26:639][556]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2022.12.30-07.21.26:639][556]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2022.12.30-07.21.26:639][556]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2022.12.30-07.21.26:639][556]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2022.12.30-07.21.26:639][556]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2022.12.30-07.21.26:639][556]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2022.12.30-07.21.26:640][556]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2022.12.30-07.21.26:640][556]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2022.12.30-07.21.26:640][556]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2022.12.30-07.21.26:640][556]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2022.12.30-07.21.26:640][556]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2022.12.30-07.21.26:640][556]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2022.12.30-07.21.26:641][556]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2022.12.30-07.21.26:641][556]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2022.12.30-07.21.26:641][556]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2022.12.30-07.21.26:641][556]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2022.12.30-07.21.26:641][556]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2022.12.30-07.21.26:641][556]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2022.12.30-07.21.26:641][556]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2022.12.30-07.21.26:641][556]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2022.12.30-07.21.26:641][556]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2022.12.30-07.21.26:642][556]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2022.12.30-07.21.26:642][556]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2022.12.30-07.21.26:642][556]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2022.12.30-07.21.26:642][556]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2022.12.30-07.21.26:642][556]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2022.12.30-07.21.26:642][556]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2022.12.30-07.21.26:642][556]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2022.12.30-07.21.26:642][556]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2022.12.30-07.21.26:642][556]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2022.12.30-07.21.26:642][556]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2022.12.30-07.21.26:642][556]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2022.12.30-07.21.26:657][556]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2022.12.30-07.21.26:657][556]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2022.12.30-07.21.26:657][556]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2022.12.30-07.21.26:657][556]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2022.12.30-07.21.26:657][556]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2022.12.30-07.21.26:680][556]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2022.12.30-07.21.26:680][556]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2022.12.30-07.21.26:680][556]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2022.12.30-07.21.26:680][556]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2022.12.30-07.21.26:680][556]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2022.12.30-07.21.26:680][556]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2022.12.30-07.21.26:680][556]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2022.12.30-07.21.26:681][556]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2022.12.30-07.21.26:681][556]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2022.12.30-07.21.26:693][556]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2022.12.30-07.21.26:733][556]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2022.12.30-07.21.26:733][556]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2022.12.30-07.21.26:733][556]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2022.12.30-07.21.26:733][556]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2022.12.30-07.21.26:733][556]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2022.12.30-07.21.26:736][556]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2022.12.30-07.21.26:736][556]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2022.12.30-07.21.26:736][556]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2022.12.30-07.21.26:736][556]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2022.12.30-07.21.26:736][556]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2022.12.30-07.21.26:736][556]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2022.12.30-07.21.26:736][556]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2022.12.30-07.21.26:736][556]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2022.12.30-07.21.26:736][556]LogHMD: Freeing OpenVRDLLHandle.
+[2022.12.30-07.21.26:736][556]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2022.12.30-07.21.26:736][556]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2022.12.30-07.21.26:737][556]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.12.30-07.21.26:738][556]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2022.12.30-07.21.26:738][556]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2022.12.30-07.21.26:738][556]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2022.12.30-07.21.26:738][556]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2022.12.30-07.21.26:739][556]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.12.30-07.21.26:739][556]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.12.30-07.21.26:739][556]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2022.12.30-07.21.26:739][556]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2022.12.30-07.21.26:739][556]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2022.12.30-07.21.26:742][556]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2022.12.30-07.21.26:742][556]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2022.12.30-07.21.26:778][556]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2022.12.30-07.21.26:778][556]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.12.30-07.21.26:778][556]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB5DE1EEC-4833-F35D-E055-48B1E0D760D2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=ac553f9f484109aa70104f8be822a9b5%7C2e29e3d37dcb4aa38a597456a3c4155a%7C7d6b0f30-8ac4-4639-8ff5-95377efb3bd9&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.12.30-07.21.26:778][556]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.12.30-07.21.26:800][556]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2022.12.30-07.21.26:808][556]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2022.12.30-07.21.26:815][556]LogModuleManager: Shutting down and abandoning module Media (73)
+[2022.12.30-07.21.26:817][556]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2022.12.30-07.21.26:817][556]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2022.12.30-07.21.26:817][556]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2022.12.30-07.21.26:817][556]LogModuleManager: Shutting down and abandoning module MagicLeap (64)
+[2022.12.30-07.21.26:817][556]LogModuleManager: Shutting down and abandoning module ChaosCloth (62)
+[2022.12.30-07.21.26:817][556]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2022.12.30-07.21.26:817][556]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2022.12.30-07.21.26:817][556]LogModuleManager: Shutting down and abandoning module PixWinPlugin (56)
+[2022.12.30-07.21.26:817][556]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2022.12.30-07.21.26:817][556]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2022.12.30-07.21.26:818][556]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.12.30-07.21.26:818][556]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.12.30-07.21.26:818][556]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2022.12.30-07.21.26:819][556]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2022.12.30-07.21.26:819][556]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2022.12.30-07.21.26:819][556]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (40)
+[2022.12.30-07.21.26:819][556]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.12.30-07.21.26:819][556]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.12.30-07.21.26:819][556]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.12.30-07.21.26:819][556]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.12.30-07.21.26:820][556]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.12.30-07.21.26:820][556]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.12.30-07.21.26:820][556]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.12.30-07.21.26:820][556]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.12.30-07.21.26:821][556]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.12.30-07.21.26:856][556]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.12.30-07.21.26:857][556]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.12.30-07.21.26:857][556]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.12.30-07.21.26:857][556]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.12.30-07.21.26:857][556]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.12.30-07.21.26:857][556]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.12.30-07.21.26:857][556]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.12.30-07.21.26:857][556]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.12.30-07.21.26:857][556]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.12.30-07.21.26:857][556]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.12.30-07.21.26:858][556]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.12.30-07.21.26:916][556]LogD3D11RHI: Shutdown
+[2022.12.30-07.21.26:916][556]LogD3D11RHI: CleanupD3DDevice
+[2022.12.30-07.21.26:930][556]LogExit: Exiting.
+[2022.12.30-07.21.26:953][556]Log file closed, 12/30/22 16:21:26
